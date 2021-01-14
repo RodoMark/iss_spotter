@@ -1,0 +1,30 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "Finds the ISS in earth's orbit",
+  "main": "index.js",
+  "scripts": {
+    "test": "'mocha'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodoMark/iss_spotter.git"
+  },
+  "keywords": [
+    "iss",
+    "internation",
+    "space",
+    "station",
+    "orbit",
+    "geotracking"
+  ],
+  "author": "alon.codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodoMark/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/RodoMark/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
