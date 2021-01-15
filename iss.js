@@ -1,6 +1,7 @@
 // iss.js
 
 const request = require("request");
+const { IP } = require("./index.js");
 
 // Fetch our IP Address
 const fetchMyIP = function (callback) {
